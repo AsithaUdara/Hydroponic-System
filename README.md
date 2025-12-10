@@ -6,6 +6,15 @@
 
 An intelligent, automated hydroponic cultivation system powered by Arduino Mega 2560. This project automates environmental monitoring and control to optimize plant growth while reducing manual intervention and resource waste.
 
+![System Overview](images/System%20Overview.jpeg)
+*Complete Smart Hydroponic System*
+
+![System Full View](docs/System%20Full%20View.jpeg)
+*Detailed System Components*
+
+![PCB Design](docs/PCB%20Design.jpeg)
+*Custom PCB Design*
+
 ## 📋 Table of Contents
 
 - [About The Project](#about-the-project)
@@ -161,8 +170,8 @@ Keypad Cols  → Pins 26, 27, 28, 29
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AsithaUdara/Hydroponic-System
-cd Hydroponic-System
+git clone https://github.com/AsithaUdara/Hydroponic-System.git
+cd hydroponic-system
 ```
 
 ### 2. Hardware Setup
@@ -386,7 +395,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or collaboration:
 
 - **Project Repository:** [GitHub](https://github.com/AsithaUdara/Hydroponic-System)
-- **Email:** [udarauni001@gmail.com]
+- **Email:** udarauni001@gmail.com
 - **University:** University of Moratuwa, Sri Lanka
 
 ## 🌟 Star History
