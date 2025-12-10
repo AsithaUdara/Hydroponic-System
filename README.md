@@ -6,13 +6,13 @@
 
 An intelligent, automated hydroponic cultivation system powered by Arduino Mega 2560. This project automates environmental monitoring and control to optimize plant growth while reducing manual intervention and resource waste.
 
-![System Overview](images/System%20Overview.jpeg)
+![System Overview](hydroponic_system/images/System%20Overview.jpeg)
 *Complete Smart Hydroponic System*
 
-![System Full View](docs/System%20Full%20View.jpeg)
+![System Full View](hydroponic_system/docs/System%20Full%20View.jpeg)
 *Detailed System Components*
 
-![PCB Design](docs/PCB%20Design.jpeg)
+![PCB Design](hydroponic_system/docs/PCB%20Design.jpeg)
 *Custom PCB Design*
 
 ## 📋 Table of Contents
