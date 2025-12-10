@@ -8,20 +8,22 @@ An intelligent, automated hydroponic cultivation system powered by Arduino Mega 
 
 ## 📸 System Overview
 
-<div align="center">
-  <img src="hydroponic_system/images/System%20Overview.jpeg" alt="System Overview" width="700"/>
-  <p><em>Complete Smart Hydroponic System</em></p>
-</div>
-
-<div align="center">
-  <img src="hydroponic_system/docs/System%20Full%20View.jpeg" alt="System Full View" width="700"/>
-  <p><em>Detailed System Components</em></p>
-</div>
-
-<div align="center">
-  <img src="hydroponic_system/docs/PCB%20Design.jpeg" alt="PCB Design" width="700"/>
-  <p><em>Custom PCB Design</em></p>
-</div>
+<table align="center">
+<tr>
+<td align="center">
+  <img src="hydroponic_system/images/System%20Overview.jpeg" width="250"/><br/>
+  <b>Complete Smart Hydroponic System</b>
+</td>
+<td align="center">
+  <img src="hydroponic_system/docs/System%20Full%20View.jpeg" width="250"/><br/>
+  <b>Detailed System Components</b>
+</td>
+<td align="center">
+  <img src="hydroponic_system/docs/PCB%20Design.jpeg" width="250"/><br/>
+  <b>Custom PCB Design</b>
+</td>
+</tr>
+</table>
 
 ---
 
