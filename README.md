@@ -6,14 +6,24 @@
 
 An intelligent, automated hydroponic cultivation system powered by Arduino Mega 2560. This project automates environmental monitoring and control to optimize plant growth while reducing manual intervention and resource waste.
 
-![System Overview](hydroponic_system/images/System%20Overview.jpeg)
-*Complete Smart Hydroponic System*
+## 📸 System Overview
 
-![System Full View](hydroponic_system/docs/System%20Full%20View.jpeg)
-*Detailed System Components*
+<div align="center">
+  <img src="hydroponic_system/images/System%20Overview.jpeg" alt="System Overview" width="700"/>
+  <p><em>Complete Smart Hydroponic System</em></p>
+</div>
 
-![PCB Design](hydroponic_system/docs/PCB%20Design.jpeg)
-*Custom PCB Design*
+<div align="center">
+  <img src="hydroponic_system/docs/System%20Full%20View.jpeg" alt="System Full View" width="700"/>
+  <p><em>Detailed System Components</em></p>
+</div>
+
+<div align="center">
+  <img src="hydroponic_system/docs/PCB%20Design.jpeg" alt="PCB Design" width="700"/>
+  <p><em>Custom PCB Design</em></p>
+</div>
+
+---
 
 ## 📋 Table of Contents
 
@@ -171,7 +181,7 @@ Keypad Cols  → Pins 26, 27, 28, 29
 
 ```bash
 git clone https://github.com/AsithaUdara/Hydroponic-System.git
-cd hydroponic-system
+cd Hydroponic-System
 ```
 
 ### 2. Hardware Setup
@@ -184,7 +194,7 @@ cd hydroponic-system
 
 ### 3. Software Setup
 
-1. Open `hydroponic_system.ino` in Arduino IDE
+1. Open `hydroponic_system/hydroponic_system.ino` in Arduino IDE
 2. Select **Board**: Arduino Mega 2560
 3. Select correct **Port**
 4. Install required libraries (see Software Requirements)
